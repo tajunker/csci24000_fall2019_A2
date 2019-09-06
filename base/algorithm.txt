@@ -1,0 +1,8 @@
+Goals - This program takes a predetermined array of 9 elements and using a bubblesort sorts the elements in the array.
+Input - This program does not take in input as the elements in the array to be sorted are already predetermined.
+Output - This program outputs the array as each element is sorted and swapped.
+Steps - For this program 3 functions are used - printValues(), sort(), and swap(). 
+        printValues() prints the values in the array values[] using a for loop to print the array as the integers are swapped with        its neiboring elements. 
+        sort() sorts the values in array values[]. This function uses a bubblesort to compare the elements and swap the elements a        s necessary with nested for loop.
+        swap() swaps the values in the array values[] after the sorting is made in the previous function swap function swaps
+        the elemets in the array as necessary.
